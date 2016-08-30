@@ -278,7 +278,7 @@ This quote from Professor Richard Rose\footnote{Director of the Center for the S
   \centering
   \includegraphics[width=0.6\textwidth]{esc1}
   \caption{Start of the simulation}
-  \label{network}
+  \label{esc1}
   %%\figSpace % This adds separation
 \end{figure}
 
@@ -289,7 +289,7 @@ This quote from Professor Richard Rose\footnote{Director of the Center for the S
   \centering
   \includegraphics[width=0.6\textwidth]{esc2}
   \caption{Melting of the Huaytapallana}
-  \label{network}
+  \label{esc2}
 %  %\figSpace % This adds separation
 \end{figure}
 
@@ -300,7 +300,7 @@ This quote from Professor Richard Rose\footnote{Director of the Center for the S
   \centering
   \includegraphics[width=0.6\textwidth]{esc3}
   \caption{Water scarcity and network of urban people frustrated}
-  \label{network}
+  \label{esc3}
 %  %\figSpace % This adds separation
 \end{figure}
 
@@ -311,7 +311,7 @@ This quote from Professor Richard Rose\footnote{Director of the Center for the S
   \centering
   \includegraphics[width=0.6\textwidth]{esc4}
   \caption{Water scarcity, urban people frustrated and relatively deprived rural settlers}
-  \label{network}
+  \label{esc4}
 %  %\figSpace % This adds separation
 \end{figure}
 
