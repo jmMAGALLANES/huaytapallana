@@ -1,0 +1,1248 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{bar-tal_intergroup_2011}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bar-Tal}{B.-T.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Psychology Press}%
+  }
+  \keyw{Conflict management, Intergroup relations}
+  \strng{namehash}{BTD1}
+  \strng{fullhash}{BTD1}
+  \field{sortinit}{B}
+  \field{isbn}{9781841697833}
+  \field{series}{Frontiers of social psychology}
+  \field{shorttitle}{Intergroup conflicts and their resolution}
+  \field{title}{Intergroup conflicts and their resolution: a social
+  psychological perspective}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{bazerman_predictable_2004}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bazerman}{B.}%
+     {Max~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harvard Business School Press}%
+  }
+  \keyw{Emergency management}
+  \strng{namehash}{BMH1}
+  \strng{fullhash}{BMH1}
+  \field{sortinit}{B}
+  \field{isbn}{1591391784}
+  \field{series}{Leadership for the common good}
+  \field{shorttitle}{Predictable surprises}
+  \field{title}{Predictable surprises: the disasters you should have seen
+  coming, and how to prevent them}
+  \list{location}{1}{%
+    {Boston}%
+  }
+  \field{annotation}{%
+  What is a predictable surprise? A preview -- pt. 1. Prototypes of predictable
+  surprises. September 11 : the costs of ignoring a predictable surprise -- The
+  collapse of Enron and the failure of auditor independence -- pt. 2. Why don't
+  we act on what we know? Cognitive roots : the role of human biases --
+  Organizational roots : the role of institutional failures -- Political roots
+  : the role of special-interest groups -- pt. 3. Preventing predictable
+  surprises. Recognition : identifying emerging threats earlier --
+  Prioritization : focusing on the right problems -- Mobilization : building
+  support for preventative action -- Future predictable surprises%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{bharwani_multiagent_2005}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Bharwani}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bithell}{B.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Downing}{D.}%
+     {T.~E.}{T.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {New}{N.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Washington}{W.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ziervogel}{Z.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BS+1}
+  \strng{fullhash}{BSBMDTENMWRZG1}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.1098/rstb.2005.1742
+  \endverb
+  \field{issn}{0962-8436, 1471-2970}
+  \field{number}{1463}
+  \field{pages}{2183\bibrangedash 2194}
+  \field{title}{Multi-agent modelling of climate outlooks and food security on
+  a community garden scheme in {Limpopo}, {South Africa}}
+  \verb{url}
+  \verb http://rstb.royalsocietypublishing.org/cgi/doi/10.1098/rstb.2005.1742
+  \endverb
+  \field{volume}{360}
+  \field{langid}{english}
+  \field{journaltitle}{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}
+  \field{year}{2005-11-29}
+\endentry
+
+\entry{bonini_simulation_1963}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bonini}{B.}%
+     {Charles~P.}{C.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{publisher}{1}{%
+    {Prentice-Hall}%
+  }
+  \strng{namehash}{BCP1}
+  \strng{fullhash}{BCP1}
+  \field{sortinit}{B}
+  \field{title}{Simulation of information and decision systems in the firm.}
+  \list{location}{1}{%
+    {Englewood Cliffs, N.J.}%
+  }
+  \field{year}{1963}
+\endentry
+
+\entry{carlos_riesgos_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Carlos}{C.}%
+     {Guillermo}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grijalva}{G.}%
+     {Roy}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CGGR1}
+  \strng{fullhash}{CGGR1}
+  \field{sortinit}{C}
+  \field{number}{1}
+  \field{pages}{15\bibrangedash 26}
+  \field{title}{Riesgos de Escasez de Agua en la Ciudad de {Huancayo} al 2030}
+  \field{volume}{2}
+  \verb{file}
+  \verb waterScarcity.pdf:/Users/josemagallanes/Documents/EVPP650 Modeling/wate
+  \verb rScarcity.pdf:application/pdf
+  \endverb
+  \field{journaltitle}{Apuntes de Ciencia y Sociedad}
+  \field{year}{2012-06}
+\endentry
+
+\entry{cioffi-revilla_methodology_2010}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cioffi-Revilla}{C.-R.}%
+     {Claudio}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Agent-Based Modeling Methodology, Computational Social Science, Inner
+  Asia, M2M, Social Complexity, Social Simulation}
+  \strng{namehash}{CRC1}
+  \strng{fullhash}{CRC1}
+  \field{sortinit}{C}
+  \field{issn}{1460-7425}
+  \field{note}{bibtex: cioffi-revilla2010}
+  \field{number}{1}
+  \field{pages}{7}
+  \field{title}{A Methodology for Complex Social Simulations}
+  \verb{url}
+  \verb http://jasss.soc.surrey.ac.uk/13/1/7.html
+  \endverb
+  \field{volume}{13}
+  \field{journaltitle}{Journal of Artificial Societies and Social Simulation}
+  \field{year}{2010}
+\endentry
+
+\entry{cioffi-revilla_introduction_2014}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cioffi-Revilla}{C.-R.}%
+     {Claudio~A.}{C.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \keyw{Data processing, Mathematical models, Social sciences}
+  \strng{namehash}{CRCA1}
+  \strng{fullhash}{CRCA1}
+  \field{sortinit}{C}
+  \field{isbn}{9781447156604}
+  \field{pagetotal}{320}
+  \field{series}{Texts in Computer Science}
+  \field{shorttitle}{Introduction to computational social science}
+  \field{title}{Introduction to computational social science: principles and
+  applications}
+  \list{location}{1}{%
+    {London ; New York}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{crate_anthropology_2009}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Crate}{C.}%
+     {Susan~Alexandra}{S.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nuttall}{N.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Left Coast Press}%
+  }
+  \strng{namehash}{CSANM1}
+  \strng{fullhash}{CSANM1}
+  \field{sortinit}{C}
+  \field{abstract}{%
+  Comprehensively assessing anthropology's engagement with climate change, this
+  volume both maps out exciting trajectories for research and issues a call to
+  action. Linking sophisticated knowledge to effective actions, 'Anthropology
+  and Climate Change' is essential for students and scholars in anthropology
+  and environmental studies.%
+  }
+  \field{isbn}{9781598743333 1598743333 9781598743340 1598743341}
+  \field{shorttitle}{Anthropology and climate change}
+  \field{title}{Anthropology and climate change: from encounters to actions}
+  \list{location}{1}{%
+    {Walnut Creek, {CA}}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{epstein_growing_1996}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Epstein}{E.}%
+     {Joshua~M}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Axtell}{A.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{publisher}{1}{%
+    {Brookings Institution Press}%
+  }
+  \strng{namehash}{EJMAR1}
+  \strng{fullhash}{EJMAR1}
+  \field{sortinit}{E}
+  \field{isbn}{9780262272360 0262272369 0585033579 9780585033570}
+  \field{title}{Growing artificial societies social science from the bottom up}
+  \verb{url}
+  \verb http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&
+  \verb db=nlabk&AN=1813
+  \endverb
+  \list{location}{1}{%
+    {Washington, D.C.}%
+  }
+  \field{year}{1996}
+  \field{urlday}{14}
+  \field{urlmonth}{01}
+  \field{urlyear}{2013}
+\endentry
+
+\entry{gilbert_simulation_2005}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gilbert}{G.}%
+     {G.~Nigel}{G.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Troitzsch}{T.}%
+     {Klaus~G.}{K.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Open University Press}%
+  }
+  \keyw{Computer simulation, Mathematical models, Simulation methods, Social
+  interaction, Social sciences}
+  \strng{namehash}{GGNTKG1}
+  \strng{fullhash}{GGNTKG1}
+  \field{sortinit}{G}
+  \field{edition}{2nd ed}
+  \field{isbn}{9780335216000}
+  \field{title}{Simulation for the social scientist}
+  \list{location}{1}{%
+    {Maidenhead, England ; New York, NY}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{hailegiorgis_agent_2010}{inproceedings}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Hailegiorgis}{H.}%
+     {Atesmachew~B.}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kennedy}{K.}%
+     {William~G.}{W.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Balan}{B.}%
+     {G.~C.}{G.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bassett}{B.}%
+     {Jeffrey~K.}{J.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gulden}{G.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HAB+1}
+  \strng{fullhash}{HABKWGBGCBJKGT1}
+  \field{sortinit}{H}
+  \field{booktitle}{Proceedings of the 2010 International Congress on
+  Environmental Modelling and Software}
+  \field{title}{An agent based model of climate change and conflict among
+  pastoralists in east {Africa}}
+  \verb{url}
+  \verb http://cs.gmu.edu/~eclab/projects/mason/publications/climate10.pdf
+  \endverb
+  \verb{file}
+  \verb MURI1.pdf:/Users/josemagallanes/Documents/tesisGMU/MURI1.pdf:applicatio
+  \verb n/pdf
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{hailegiorgis_computational_2013}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hailegiorgis}{H.}%
+     {Atesmachew~Bizuwerk}{A.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Agent-based modeling, Climate change, Coupled human and natural
+  systems, Earth sciences, Ethiopia, Geographic information systems ({GIS}),
+  Household dynamics, Land acquisition, Social sciences, South Omo}
+  \strng{namehash}{HAB1}
+  \strng{fullhash}{HAB1}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  This dissertation investigates, models, and tests hypotheses on how the
+  current surge in large-scale land acquisition might affect rural livelihood
+  in developing countries. The focus is on southern Ethiopia, specifically the
+  South Omo zone, where ongoing large-scale land acquisition transactions,
+  climate-stressed rural communities, and biodiversity provide a valuable
+  research opportunity to better understand these complex dynamics. The study
+  presents a computational model, {OMOLAND}, which is a spatial agent-based
+  model that explicitly represents the main components of the rural system
+  (households, enterprises, institutions, climate, and biophysical
+  environment), their interactions, and dynamics. The main findings are: *
+  Although the rural communities in the South Omo zone manage to persist with
+  the current climate condition, the occurrence of successive episodes of
+  extreme events (drought) affects their adaptive capacity and forces them to
+  migrate out of the system in greater magnitude. * Although, the introduction
+  of commercial enterprises in rural system minimize rural households'
+  vulnerability to climate variability through opening up off-farm opportunity,
+  increasing the magnitude of expansion of large-scale land acquisition
+  aggravate dispossession and increase migration of rural households as the
+  system transit to new phases. * The intervention of institution through
+  capacity building and relief support in the time of extreme events minimizes
+  the number of people migrating from the system. The study contributes to
+  broaden current scientific understanding of complex coupled human and natural
+  systems through explicitly modeling the dynamics of heterogeneous actors,
+  institutions, and their environments. The modeling approach complements
+  current efforts aimed at integrating {GIS} and agent-based models for basic
+  research and policy analysis, providing an innovative and significant
+  methodological thrust in computational social science and geospatial
+  modeling.%
+  }
+  \field{pagetotal}{196}
+  \field{title}{Computational Modeling of Climate Change, Large-Scale Land
+  Acquisition, and Household Dynamics in {Southern Ethiopia}}
+  \verb{url}
+  \verb http://search.proquest.com/docview/1492669016/abstract?accountid=14541
+  \endverb
+  \list{location}{1}{%
+    {Ann Arbor, United States}%
+  }
+  \verb{file}
+  \verb Full Text PDF:/Users/josemagallanes/Library/Application Support/Zotero/
+  \verb Profiles/h4r07xks.default/zotero/storage/R7TDXQAU/Hailegiorgis - 2013 -
+  \verb  Computational Modeling of Climate Change, Large-Sc.pdf:application/pdf
+  \verb ;Snapshot:/Users/josemagallanes/Library/Application Support/Zotero/Prof
+  \verb iles/h4r07xks.default/zotero/storage/BBDEH3NR/abstract.html:text/html
+  \endverb
+  \field{type}{phdthesis}
+  \field{year}{2013}
+\endentry
+
+\entry{haller_vivid_2012}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haller}{H.}%
+     {Andreas}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HA1}
+  \strng{fullhash}{HA1}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1016/j.apgeog.2012.09.009
+  \endverb
+  \field{issn}{01436228}
+  \field{number}{1}
+  \field{pages}{439\bibrangedash 447}
+  \field{shorttitle}{Vivid valleys, pallid peaks?}
+  \field{title}{Vivid valleys, pallid peaks? Hypsometric variations and rural
+  urban land change in the central {Peruvian Andes}}
+  \verb{url}
+  \verb http://linkinghub.elsevier.com/retrieve/pii/S0143622812001002
+  \endverb
+  \field{volume}{35}
+  \verb{file}
+  \verb valley MantaroHaller.pdf:/Users/josemagallanes/Library/Application Supp
+  \verb ort/Zotero/Profiles/h4r07xks.default/zotero/storage/72SHMJEK/valley Man
+  \verb taroHaller.pdf:application/pdf
+  \endverb
+  \field{journaltitle}{Applied Geography}
+  \field{year}{2012-11}
+\endentry
+
+\entry{haller_huancayo_2013}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Haller}{H.}%
+     {Andreas}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Borsdorf}{B.}%
+     {Axel}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HABA1}
+  \strng{fullhash}{HABA1}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1016/j.cities.2012.04.004
+  \endverb
+  \field{issn}{02642751}
+  \field{pages}{553\bibrangedash 562}
+  \field{title}{Huancayo Metropolitano}
+  \verb{url}
+  \verb http://linkinghub.elsevier.com/retrieve/pii/S0264275112000637
+  \endverb
+  \field{volume}{31}
+  \verb{file}
+  \verb Haller&Borsdorf2012.pdf:/Users/josemagallanes/Library/Application Suppo
+  \verb rt/Zotero/Profiles/h4r07xks.default/zotero/storage/ITZIQWSR/Haller&Bors
+  \verb dorf2012.pdf:application/pdf
+  \endverb
+  \field{journaltitle}{Cities}
+  \field{year}{2013-04}
+\endentry
+
+\entry{heifetz_leadership_2002}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Heifetz}{H.}%
+     {R.~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Linsky}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harvard Business School Press}%
+  }
+  \strng{namehash}{HRALM1}
+  \strng{fullhash}{HRALM1}
+  \field{sortinit}{H}
+  \field{isbn}{9781578514373}
+  \field{title}{Leadership on the {Line}: {Staying} {Alive} {Through} the
+  {Dangers} of {Leading}}
+  \verb{url}
+  \verb http://books.google.com/books?id=c3mYE7jNvn0C
+  \endverb
+  \field{year}{2002}
+\endentry
+
+\entry{hendrix_climate_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hendrix}{H.}%
+     {C.~S.}{C.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salehyan}{S.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HCSSI1}
+  \strng{fullhash}{HCSSI1}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1177/0022343311426165
+  \endverb
+  \field{issn}{0022-3433, 1460-3578}
+  \field{number}{1}
+  \field{pages}{35\bibrangedash 50}
+  \field{title}{Climate change, rainfall, and social conflict in {Africa}}
+  \verb{url}
+  \verb http://jpr.sagepub.com/cgi/doi/10.1177/0022343311426165
+  \endverb
+  \field{volume}{49}
+  \field{langid}{english}
+  \field{journaltitle}{Journal of Peace Research}
+  \field{year}{2012-01-01}
+\endentry
+
+\entry{hirschman_exit_1970}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hirschman}{H.}%
+     {Albert~O.}{A.~O.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harvard University Press}%
+  }
+  \keyw{Dissenters, Loyalty, Organizational sociology}
+  \strng{namehash}{HAO1}
+  \strng{fullhash}{HAO1}
+  \field{sortinit}{H}
+  \field{isbn}{0674276604}
+  \field{pagetotal}{162}
+  \field{shorttitle}{Exit, voice, and loyalty}
+  \field{title}{Exit, voice, and loyalty: responses to decline in firms,
+  organizations, and states}
+  \list{location}{1}{%
+    {Cambridge, Mass}%
+  }
+  \field{year}{1970}
+\endentry
+
+\entry{ho_2012}{report}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ho}{H.}%
+     {Raul}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Milan}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HRMA1}
+  \strng{fullhash}{HRMA1}
+  \field{sortinit}{H}
+  \field{number}{5}
+  \field{title}{{``Where the Rain Falls''} Project. Results from {Huancayo}
+  Province, {Junin} Region.}
+  \list{location}{1}{%
+    {United Nations University, Germany}%
+  }
+  \list{institution}{1}{%
+    {United Nations University}%
+  }
+  \field{type}{Case Study}
+  \field{year}{2012}
+\endentry
+
+\entry{hsiang_quantifying_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hsiang}{H.}%
+     {S.~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burke}{B.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miguel}{M.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HSMBMME1}
+  \strng{fullhash}{HSMBMME1}
+  \field{sortinit}{H}
+  \verb{doi}
+  \verb 10.1126/science.1235367
+  \endverb
+  \field{issn}{0036-8075, 1095-9203}
+  \field{number}{6151}
+  \field{pages}{1235367\bibrangedash 1235367}
+  \field{title}{Quantifying the Influence of Climate on Human Conflict}
+  \verb{url}
+  \verb http://www.sciencemag.org/cgi/doi/10.1126/science.1235367
+  \endverb
+  \field{volume}{341}
+  \field{langid}{english}
+  \field{journaltitle}{Science}
+  \field{year}{2013-09-13}
+\endentry
+
+\entry{kennedy_agent-based_2010}{unpublished}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Kennedy}{K.}%
+     {William~G.}{W.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hailegiorgis}{H.}%
+     {Atesmachew~B.}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rouleau}{R.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bassett}{B.}%
+     {Jeffrey~K.}{J.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Coletti}{C.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Balan}{B.}%
+     {Gabriel~C.}{G.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gulden}{G.}%
+     {Tim}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KWG+1}
+  \strng{fullhash}{KWGHABRMBJKCMBGCGT1}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  Keywords: agent-based modeling, {MASON}, conflict modeling Abstract: An
+  agent-based model conflict between herdsmen in east Africa using the {MASON}
+  agent-based simulation environment is presented. Herders struggle to keep
+  their herds fed and watered in a {GIS}-based, spatially diverse environment
+  with data-driven seasonal cycles. The model produces realistic carrying
+  capacity dynamics and basically plausible conflict dynamics. With the rather
+  basic set of behaviors, herders come into conflict over limited resources and
+  one clan is eventually eliminated. We find that greater environmental
+  scarcity leads to faster domination by a single group. At the same time, we
+  note that there is tremendous variability from run to run in the rate and
+  timing of the transition from a conflict-prone, multi-clan environment to
+  hegemony of a single group. 1.%
+  }
+  \field{howpublished}{Conference}
+  \field{note}{Behavior Representation in Modeling and Simulation}
+  \field{title}{An Agent-Based Model of Conflict in East {Africa} And the
+  Effect of Watering Holes}
+  \list{location}{1}{%
+    {Charleston, {SC}}%
+  }
+  \verb{file}
+  \verb Citeseer - Snapshot:/Users/josemagallanes/Library/Application Support/Z
+  \verb otero/Profiles/h4r07xks.default/zotero/storage/AKHRJE7W/summary.html:te
+  \verb xt/html
+  \endverb
+  \field{type}{Conference}
+  \field{year}{2010-03-24}
+\endentry
+
+\entry{kniveton_agent-based_2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kniveton}{K.}%
+     {Dominic}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Christopher}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wood}{W.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KDSCWS1}
+  \strng{fullhash}{KDSCWS1}
+  \field{sortinit}{K}
+  \verb{doi}
+  \verb 10.1016/j.gloenvcha.2011.09.006
+  \endverb
+  \field{issn}{09593780}
+  \field{pages}{S34\bibrangedash S40}
+  \field{title}{Agent-based model simulations of future changes in migration
+  flows for {Burkina Faso}}
+  \verb{url}
+  \verb http://linkinghub.elsevier.com/retrieve/pii/S0959378011001415
+  \endverb
+  \field{volume}{21}
+  \field{langid}{english}
+  \verb{file}
+  \verb burkinafasso.pdf:/Users/josemagallanes/Library/Application Support/Zote
+  \verb ro/Profiles/h4r07xks.default/zotero/storage/JFHZSB2I/burkinafasso.pdf:a
+  \verb pplication/pdf
+  \endverb
+  \field{journaltitle}{Global Environmental Change}
+  \field{year}{2011-12}
+\endentry
+
+\entry{lopez-moreno_recent_2014}{article}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Lopez-Moreno}{L.-M.}%
+     {J.I.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fontaneda}{F.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bazo}{B.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Revuelto}{R.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Azorin-Molina}{A.-M.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Valero-Garces}{V.-G.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moran-Tejeda}{M.-T.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vicente-Serrano}{V.-S.}%
+     {S.M.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zubieta}{Z.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alejo-Cochachin}{A.-C.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LMJ+1}
+  \strng{fullhash}{LMJFSBJRJAMCVGBMTEVSSZRACJ1}
+  \field{sortinit}{L}
+  \verb{doi}
+  \verb 10.1016/j.gloplacha.2013.10.010
+  \endverb
+  \field{issn}{09218181}
+  \field{pages}{1\bibrangedash 11}
+  \field{title}{Recent glacier retreat and climate trends in {Cordillera
+  Huaytapallana}, {Peru}}
+  \verb{url}
+  \verb http://linkinghub.elsevier.com/retrieve/pii/S0921818113002385
+  \endverb
+  \field{volume}{112}
+  \verb{file}
+  \verb huaytapallana.pdf:/Users/josemagallanes/Library/Application Support/Zot
+  \verb ero/Profiles/h4r07xks.default/zotero/storage/D4P7AXBJ/huaytapallana.pdf
+  \verb :application/pdf
+  \endverb
+  \field{journaltitle}{Global and Planetary Change}
+  \field{year}{2014-01}
+\endentry
+
+\entry{luke_mason_2015}{misc}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Luke}{L.}%
+     {Sean}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Catalin}{C.}%
+     {Gabriel}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sullivan}{S.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Panait}{P.}%
+     {Liviu}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {The Evolutionary Computation Laboratory}%
+    {The Center for Social Complexity at George Mason University}%
+  }
+  \strng{namehash}{LS+1}
+  \strng{fullhash}{LSCGSKPL1}
+  \field{sortinit}{L}
+  \field{shorttitle}{{MASON}}
+  \field{title}{{MASON} - {Multi} {Agent} {Simulator} {Of} {Neighborhoods}}
+  \verb{url}
+  \verb https://cs.gmu.edu/~eclab/projects/mason/
+  \endverb
+  \field{year}{2015}
+\endentry
+
+\entry{maslow_motivation_1987}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Maslow}{M.}%
+     {Abraham~H.}{A.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Frager}{F.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Harper}%
+    {Row}%
+  }
+  \keyw{Motivation (Psychology), Self-actualization (Psychology)}
+  \strng{namehash}{MAHFR1}
+  \strng{fullhash}{MAHFR1}
+  \field{sortinit}{M}
+  \field{edition}{3rd ed}
+  \field{isbn}{0060419873}
+  \field{title}{Motivation and personality}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{miller_complex_2007}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Miller}{M.}%
+     {John~H.}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Page}{P.}%
+     {Scott~E.}{S.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Princeton University Press}%
+  }
+  \keyw{Computermodellen, Mathematical models, Sociale relaties, Social
+  sciences, Social systems}
+  \strng{namehash}{MJHPSE1}
+  \strng{fullhash}{MJHPSE1}
+  \field{sortinit}{M}
+  \field{isbn}{0691127026}
+  \field{pagetotal}{263}
+  \field{series}{Princeton studies in complexity}
+  \field{shorttitle}{Complex adaptive systems}
+  \field{title}{Complex adaptive systems: an introduction to computational
+  models of social life}
+  \list{location}{1}{%
+    {Princeton, N.J}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{piontek_impact_2010}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Piontek}{P.}%
+     {Franziska}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PF1}
+  \strng{fullhash}{PF1}
+  \field{sortinit}{P}
+  \field{title}{The Impact of Climate Change on Conflict and Cooperation in the
+  {Nile} Basin}
+  \list{location}{1}{%
+    {Hamburg, Germany}%
+  }
+  \list{institution}{2}{%
+    {Institute for Peace}%
+    {Security Studies}%
+  }
+  \verb{file}
+  \verb nilebasin.pdf:/Users/josemagallanes/Documents/tesisGMU/cnflict/nilebasi
+  \verb n.pdf:application/pdf
+  \endverb
+  \field{type}{Master Thesis}
+  \field{year}{2010}
+\endentry
+
+\entry{rose_lesson-drawing_1993}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rose}{R.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Chatham House Publishers}%
+  }
+  \keyw{Policy sciences}
+  \strng{namehash}{RR1}
+  \strng{fullhash}{RR1}
+  \field{sortinit}{R}
+  \field{isbn}{0934540322}
+  \field{shorttitle}{Lesson-drawing in public policy}
+  \field{title}{Lesson-drawing in public policy: a guide to learning across
+  time and space}
+  \list{location}{1}{%
+    {Chatham, N.J}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{simon_sciences_1996}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Simon}{S.}%
+     {Herbert~A}{H.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {{MIT} Press}%
+  }
+  \strng{namehash}{SHA1}
+  \strng{fullhash}{SHA1}
+  \field{sortinit}{S}
+  \field{isbn}{0262691914 9780262691918 0262193744 9780262193740}
+  \field{pages}{27}
+  \field{title}{The sciences of the artificial}
+  \list{location}{1}{%
+    {Cambridge, Mass.}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{steinbruner_climate_2013}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Steinbruner}{S.}%
+     {John~D.}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stern}{S.}%
+     {Paul~C.}{P.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Husbands}{H.}%
+     {Jo~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {National Research Council (U.S.)}%
+  }
+  \keyw{Climatic changes, National security, Political aspects, Risk
+  assessment, Risk management, Social aspects, United States}
+  \strng{namehash}{SJDSPCHJL1}
+  \strng{fullhash}{SJDSPCHJL1}
+  \field{sortinit}{S}
+  \field{isbn}{9780309278560}
+  \field{pagetotal}{238}
+  \field{shorttitle}{Climate and social stress}
+  \field{title}{Climate and social stress: implications for security analysis}
+  \list{location}{1}{%
+    {Washington, D.C}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{anylogic_2015}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Distributed Computer Network Research group at Saint Petersburg
+  Technical University}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The AnyLogic Company}%
+  }
+  \strng{namehash}{T1}
+  \strng{fullhash}{T1}
+  \field{sortinit}{T}
+  \field{title}{{AnyLogic}}
+  \verb{url}
+  \verb www.anylogic.com
+  \endverb
+  \field{year}{2015}
+\endentry
+
+\entry{torjman_what_2005}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Torjman}{T.}%
+     {Sherri}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{publisher}{1}{%
+    {Caledon Institute of Social Policy}%
+  }
+  \strng{namehash}{TS1}
+  \strng{fullhash}{TS1}
+  \field{sortinit}{T}
+  \field{isbn}{1553821424 9781553821427}
+  \field{title}{What is policy?}
+  \verb{url}
+  \verb http://www.deslibris.ca/ID/202308
+  \endverb
+  \list{location}{1}{%
+    {Ottawa}%
+  }
+  \field{year}{2005}
+  \field{urlday}{11}
+  \field{urlmonth}{06}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{watkins_understanding_2008}{report}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Watkins}{W.}%
+     {Jennifer~H.}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{MacKerrow}}{M.}%
+     {Edward~P.}{E.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Patelli}{P.}%
+     {Paolo~G.}{P.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Eberhard}{E.}%
+     {A.~S.}{A.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stradling}{S.}%
+     {Seth~G.}{S.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WJH+1}
+  \strng{fullhash}{WJHMEPPPGEASSSG1}
+  \field{sortinit}{W}
+  \field{title}{Understanding {Islamist} political violence through
+  computational social simulation}
+  \verb{url}
+  \verb http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-
+  \verb 08-05107
+  \endverb
+  \list{institution}{1}{%
+    {Los Alamos National Laboratory ({LANL})}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{wilensky_introduction_2015}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wilensky}{W.}%
+     {Uri}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rand}{R.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The MIT Press}%
+  }
+  \keyw{Computer simulation, Data processing, Multiagent systems, NetLogo
+  (Computer program language), System analysis}
+  \strng{namehash}{WURW1}
+  \strng{fullhash}{WURW1}
+  \field{sortinit}{W}
+  \field{isbn}{9780262731898}
+  \field{shorttitle}{Introduction to agent-based modeling}
+  \field{title}{Introduction to agent-based modeling: modeling natural, social,
+  and engineered complex systems with {NetLogo}}
+  \list{location}{1}{%
+    {Cambridge, Massachusetts}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{ziervogel_agent-based_2005}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Ziervogel}{Z.}%
+     {Gina}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bithell}{B.}%
+     {Mike}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Washington}{W.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Downing}{D.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZG+1}
+  \strng{fullhash}{ZGBMWRDT1}
+  \field{sortinit}{Z}
+  \verb{doi}
+  \verb 10.1016/j.agsy.2004.02.009
+  \endverb
+  \field{issn}{0308521X}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 26}
+  \field{shorttitle}{Agent-based social simulation}
+  \field{title}{Agent-based social simulation: a method for assessing the
+  impact of seasonal climate forecast applications among smallholder farmers}
+  \verb{url}
+  \verb http://linkinghub.elsevier.com/retrieve/pii/S0308521X04000526
+  \endverb
+  \field{volume}{83}
+  \field{langid}{english}
+  \field{journaltitle}{Agricultural Systems}
+  \field{year}{2005-01}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
